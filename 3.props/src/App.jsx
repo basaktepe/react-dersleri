@@ -17,6 +17,7 @@ function App() {
       <Container>
         <Product productName="Telefon" price={20500} />
       </Container>
+    
     </div>
   );
 }
